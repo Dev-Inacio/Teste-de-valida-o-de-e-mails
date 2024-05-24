@@ -1,0 +1,14 @@
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\bin\Debug\net7.0\TesteDeValidacaoDeEmail.exe
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\bin\Debug\net7.0\TesteDeValidacaoDeEmail.deps.json
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\bin\Debug\net7.0\TesteDeValidacaoDeEmail.runtimeconfig.json
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\bin\Debug\net7.0\TesteDeValidacaoDeEmail.dll
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\bin\Debug\net7.0\TesteDeValidacaoDeEmail.pdb
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.AssemblyInfoInputs.cache
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.AssemblyInfo.cs
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.csproj.CoreCompileInputs.cache
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.dll
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\refint\TesteDeValidacaoDeEmail.dll
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.pdb
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\TesteDeValidacaoDeEmail.genruntimeconfig.cache
+C:\Users\INTX\Music\TesteDeValidacaoDeEmail\TesteDeValidacaoDeEmail\obj\Debug\net7.0\ref\TesteDeValidacaoDeEmail.dll
